@@ -25,4 +25,5 @@ The LEDs turn on in sequence with timed delays.
 
 ## Circuit
 
-![Traffic Lights Simulator](traffic-lights-simulator-tinkercad.png)
+![Traffic Lights Simulator](traffic%20lights%20simulator%20tinkercard.png)
+
